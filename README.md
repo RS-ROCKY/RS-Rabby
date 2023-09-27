@@ -11,7 +11,7 @@
 
  - pip install mechanize
 
-- rm -RS-Rabby
+- rm -rf RS-Rabby
 
 - git clone https://github.com/RS-ROCKY/RS-Rabby
 
